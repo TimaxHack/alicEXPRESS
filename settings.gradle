@@ -1,0 +1,2 @@
+rootProject.name = "alicEXPRESS"
+include ':app'
